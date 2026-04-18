@@ -1,3 +1,3 @@
   # Jihye Kim - Professional Portfolio
    
-   Visit my portfolio: [https://yourusername.github.io](https://yourusername.github.io)
+   Visit my portfolio: [https://paddingtonfromkr.github.io](https://paddingtonfromkr.github.io)
